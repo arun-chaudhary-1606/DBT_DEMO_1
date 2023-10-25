@@ -1,0 +1,5 @@
+WITH CLASSICMODELS_OFFICES AS (
+SELECT * from demo_database.DEMO_SCHEMA
+)
+
+select * from CLASSICMODELS_OFFICES

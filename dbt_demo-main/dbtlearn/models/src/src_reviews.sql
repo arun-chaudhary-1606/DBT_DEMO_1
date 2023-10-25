@@ -1,0 +1,7 @@
+WITH CLASSICMODELS_ORDERS AS (
+SELECT * from demo_database.DEMO_SCHEMA
+)
+
+select * from CLASSICMODELS_ORDERS
+
+
